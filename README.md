@@ -1,4 +1,5 @@
 # Game-of-Life
+- WRITTEN IN C# USING VISUAL STUDIOS 2015 -
 Contains source code for Conway's Game of Life.
 
 Grid class is used for drawing items on screen and also updating the graphics when window is resized. 
